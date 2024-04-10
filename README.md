@@ -21,3 +21,9 @@
 2. _**PrintUserArray**_
 3. _**ChangeArray**_
 4. _**PrintNewArray**_
+
+# Блок-схема основного метода _**ChangeArray**_
+### .JPG
+![Блок-схема jpg](Scheme/SchemeJPG.jpg)
+### .PNG
+![Блок-схема png](Scheme/SchemePNG.png)
